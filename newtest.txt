@@ -1,0 +1,2 @@
+hi this is the new test folder for the git process
+this will help us to understand more about git
